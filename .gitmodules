@@ -1,0 +1,3 @@
+[submodule "NeuralPlayground"]
+	path = NeuralPlayground
+	url = https://github.com/devanshishah1/NeuralPlayground
